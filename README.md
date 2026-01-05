@@ -1,6 +1,6 @@
 # Hi there, I'm Yohanns! 👋
 
-### 👨‍🎓 CS ( [Civil Engineering Telematics](https://usm.cl/admision/carreras/ingenieria-civil-telematica/) ) Student at Universidad Técnica Federico Santa María (USM)
+### 👨‍🎓 [Civil Engineering Telematics](https://usm.cl/admision/carreras/ingenieria-civil-telematica/)  Student at Universidad Técnica Federico Santa María (USM)
 
 I'm a passionate Junior Developer from Chile, focused on mastering the foundations of programming and Full Stack Web Development.
 
