@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @YohannsJ a junior dev.
-- 👀 I’m interested in front-end with React. 
-- 🌱 I'm currently learning JavaScript, React, and basic of the frontend.
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 My email -> yohanns.jara@sansano.usm.cl or yohannjara@gmail.com.  
-- 👨‍🎓 I'm studen of the Universidad Tecnica Federico Santa Maria.
+# Hi there, I'm Yohanns! 👋
 
-<!---
-YohannsJ/YohannsJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍🎓 CS Student at Universidad Técnica Federico Santa María (USM)
+
+I'm a passionate Junior Developer from Chile, focused on mastering the foundations of programming and Full Stack Web Development.
+
+---
+
+### 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 About Me
+
+- 🔭 **I’m interested in:** Web Development, Algorithms, and Software Architecture.
+- 🌱 **Currently learning:** Advanced Python concepts and Full Stack frameworks.
+- 🎓 **Education:** Pursuing my degree at UTFSM (Sansano).
+- 📫 **Contact me:**
+  - 🏫 [yohanns.jara@sansano.usm.cl](mailto:yohanns.jara@sansano.usm.cl)
+  - 📧 [yohannjara@gmail.com](mailto:yohannjara@gmail.com)
